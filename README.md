@@ -129,7 +129,7 @@ int main()
 ![Exp 9- Pointer Float](https://github.com/user-attachments/assets/72aa9bcd-eebf-4197-bd14-aaea28acab60)
 
 ## C) CHAR
-![exp 9- Pointer Character](https://github.com/user-attachments/assets/3c4159c2-86ac-4ce1-8a75-b74e9d90b0e6)
+![POINTER CHAR](https://github.com/user-attachments/assets/2e7eb783-3680-4b07-9d10-3e38935fb503)
 
 ## ACCESS ELEMENT OF ARRAY USING POINTER
 ![EXp 9 Extract element of array using pointer](https://github.com/user-attachments/assets/80a6564d-68a8-49af-939c-2f6813bac193)
