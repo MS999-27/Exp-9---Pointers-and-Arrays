@@ -130,6 +130,8 @@ int main()
 
 ## C) CHAR
 ![POINTER CHAR](https://github.com/user-attachments/assets/2e7eb783-3680-4b07-9d10-3e38935fb503)
+![Exp 10 ](https://github.com/user-attachments/assets/4ccaf496-31cb-44cc-a725-ecbc8d52d119)
+
 
 ## ACCESS ELEMENT OF ARRAY USING POINTER
 ![EXp 9 Extract element of array using pointer](https://github.com/user-attachments/assets/80a6564d-68a8-49af-939c-2f6813bac193)
